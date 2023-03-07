@@ -1,4 +1,4 @@
-<h3>Assignments</h3>
+<h2>Assignments</h2>
 
 These assignments were provided as a part of the course in FreeCodeCamp.
 
